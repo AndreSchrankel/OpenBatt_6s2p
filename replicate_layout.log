@@ -1,0 +1,17 @@
+04-02 11:32:40 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 278:Plugin executed on: 'win32'
+04-02 11:32:40 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 279:Plugin executed with python version: '3.9.6 (default, Sep 27 2021, 21:15:11) [MSC v.1929 64 bit (AMD64)]'
+04-02 11:32:40 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 280:KiCad build version: (6.0.1)
+04-02 11:32:40 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 281:Plugin version: 1.1.0
+04-02 11:32:40 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 282:Frame repr: <wx._core.Frame object at 0x0000019F36EB9700>
+04-02 11:32:40 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 301:Preparing replicator with BT1 as a reference
+04-02 11:32:40 com_github_MitjaNemec_ReplicateLayout.replicate_layout 98:getting a list of all footprints on board
+04-02 11:32:40 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 329:source anchor footprint is 'BT1'
+Located on: ['Untitled Sheet']
+With filenames: ['untitled.kicad_sch']
+With sheet_id:['Untitled Sheet']
+04-02 11:32:40 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 336:Corresponding footprints are 
+[('BT1', ['Untitled Sheet'])]
+04-02 11:32:40 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 348:Showing dialog
+04-02 11:32:40 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 354:Toolbar position: wx.Point(1693, 138)
+04-02 11:32:40 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 360:Dialog position: wx.Point(1329, 138)
+04-02 11:32:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 207:User canceled the dialog
