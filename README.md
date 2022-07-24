@@ -21,10 +21,14 @@ Currently the PCB is untested! I'm waiting for some parts to be available...
 
 # System Architecture:
 
-![System_Architecture_Overview_V1_0](https://user-images.githubusercontent.com/108613519/180643140-3be8174f-aba2-4e6a-8480-85dc6793e054.svg)
+![System_Architecture_Overview_V1_0](https://user-images.githubusercontent.com/108613519/180645766-bccaa4cf-a095-4783-bde8-66f1c8bca6b8.png)
 
-![System_Architecture_Slave-BMS_V1_0](https://user-images.githubusercontent.com/108613519/180643207-db9cca7b-2e06-427f-9d93-c40e0afaab06.svg)
-For the Slave BMS i used the OpenSourceProject from @stuartpittaway https://github.com/stuartpittaway/diyBMSv4.
-Because is it very minimalistic and very versatile! I like his project very much! So basic software from Stuart should also work for this project. However, the fuses are not part of Stuarts Project.
+![System_Architecture_Slave-BMS_V1_0](https://user-images.githubusercontent.com/108613519/180645775-f840c8e0-802b-446c-bbea-c92667edcf96.png)
+For the Slave BMS i used the OpenSourceProject "diyBMSv4" from stuartpittaway https://github.com/stuartpittaway/diyBMSv4.
+The dyiBMSv4 is very minimalistic and very versatile! I like his project very much! 
+Basic software from Stuart should also work for my project. 
+The fuses are not part of Stuarts BMS.
 
-![System_Architecture_Main-BMS_V1_0](https://user-images.githubusercontent.com/108613519/180643333-633b4e2c-ad77-4a6e-ade9-87f8d25502b0.svg)
+![System_Architecture_Main-BMS_V1_0](https://user-images.githubusercontent.com/108613519/180645788-24095e9f-82e8-4e1d-984c-1f77652f2dbd.png)
+
+
