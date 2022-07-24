@@ -25,7 +25,7 @@ Currently the PCB is untested! I'm waiting for some parts to be available...
 
 ![System_Architecture_Slave-BMS_V1_0](https://user-images.githubusercontent.com/108613519/180645775-f840c8e0-802b-446c-bbea-c92667edcf96.png)
 For the Slave BMS i used the OpenSourceProject "diyBMSv4" from stuartpittaway https://github.com/stuartpittaway/diyBMSv4.
-The dyiBMSv4 is very minimalistic and very versatile! I like his project very much! 
+The diyBMSv4 is very minimalistic and very versatile! I like his project very much! 
 Basic software from Stuart should also work for my project. 
 The fuses are not part of Stuarts BMS.
 
