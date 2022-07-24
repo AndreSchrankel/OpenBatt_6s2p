@@ -1,12 +1,12 @@
 # OpenBatt_6s2p
 
-DIY 6s2p Li-Ion Batterypack integrated on a PCB with BMS and BLE.
+**DIY 6s2p Li-Ion Batterypack integrated on a PCB with BMS and BLE**.
 <br />
 <br />
-Specs: U=21.6V, I=30A, C=108Wh, Dimensions=315x95x30mm [L,W,H]
+**Specs**: U=21.6V, I=30A, P=648W, C=108Wh, Dimensions=315x95x30mm [L,W,H]
 <br />
 <br />
-You can find further technical information in the **System Architecure** below.
+You can find further technical information in the **System Architecture** below.
 
 # Project Status
 
@@ -35,9 +35,7 @@ For the Slave BMS i used the OpenSourceProject "diyBMSv4" from stuartpittaway.
 Link: https://github.com/stuartpittaway/diyBMSv4.
 <br />
 The diyBMSv4 is very minimalistic and very versatile!
-<br />
 Basic software from Stuart should also work for my project.
-<br />
 The fuses are not part of Stuarts BMS.
 
 ![System_Architecture_Main-BMS_V1_0](https://user-images.githubusercontent.com/108613519/180645788-24095e9f-82e8-4e1d-984c-1f77652f2dbd.png)
