@@ -8,18 +8,28 @@
 <br />
 You can find further technical information in the **System Architecture** below.
 
+# Table of Contents
+1. [ Project Status. ](#ProjectStatus)
+2. [ 3D Top View. ](#3DTopView)
+3. [ 3D Bottom View. ](#3DBottomView)
+4. [ Example usage DIY Electric Longboard. ](#ExampleusageDIYElectricLongboard)
+
+<a name="ProjectStatus"></a>
 # Project Status
 
 Currently the PCB is untested! I'm waiting for some parts to be available... 
 
+<a name="3DTopView"></a>
 # 3D Top View
 
 ![OpenBatt_6s2p_3D_TopView](https://user-images.githubusercontent.com/108613519/177038933-394bf812-14e5-416e-8f4e-e9a5df584d60.png)
 
+<a name="3DBottomView"></a>
 # 3D Bottom View
 
 ![OpenBatt_6s2p_3D_BottomView](https://user-images.githubusercontent.com/108613519/177038978-36c688a1-d463-4b06-bcc9-7e361f0db8e3.png)
 
+<a name="ExampleusageDIYElectricLongboard"></a>
 # Example usage "DIY Electric Longboard"
 
 ![OpenBatt_6s2p_3D_ElectricLongboard](https://user-images.githubusercontent.com/108613519/177039099-7dec32df-2ebe-4c31-8aa8-50affc784a54.PNG)
