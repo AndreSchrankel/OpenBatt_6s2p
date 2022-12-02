@@ -6,13 +6,14 @@
 **Specs**: U=21.6V, I=30A, P=648W, C=108Wh, Dimensions=315x95x30mm [L,W,H]
 <br />
 <br />
-You can find further technical information in the **System Architecture** below.
+You can find further technical information in the **Hardware System Architecture** below.
 
 # Table of Contents
 1. [ Project Status. ](#ProjectStatus)
 2. [ 3D Top View. ](#3DTopView)
 3. [ 3D Bottom View. ](#3DBottomView)
 4. [ Example usage DIY Electric Longboard. ](#ExampleusageDIYElectricLongboard)
+5. [ Hardware System Architecture. ](#HardwareSystemArchitecture)
 
 <a name="ProjectStatus"></a>
 # Project Status
@@ -34,8 +35,8 @@ Currently the PCB is untested! I'm waiting for some parts to be available...
 
 ![OpenBatt_6s2p_3D_ElectricLongboard](https://user-images.githubusercontent.com/108613519/177039099-7dec32df-2ebe-4c31-8aa8-50affc784a54.PNG)
 
-
-# System Architecture
+<a name="HardwareSystemArchitecture"></a>
+# Hardware System Architecture
 
 ![System_Architecture_Overview_V1_0](https://user-images.githubusercontent.com/108613519/180645766-bccaa4cf-a095-4783-bde8-66f1c8bca6b8.png)
 
